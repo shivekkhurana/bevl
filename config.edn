@@ -1,0 +1,7 @@
+{:app-id "7c36d226"
+ :app-key "6cc09ef846522624bdd1874c68d44b34"
+ :api-endpoint "https://api.tfl.gov.uk/bikepoint"
+ :leyton-coords {
+  :lat 51.5667
+  :lon -0.0167
+ }}
